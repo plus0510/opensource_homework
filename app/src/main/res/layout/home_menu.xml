@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <item
+        android:id="@+id/tab1"
+        app:showAsAction="always"
+        android:enabled="true"
+        android:title="@string/title_timetable"
+        android:icon="@drawable/ic_timetable"
+        >
+    </item>
+    <item
+        android:id="@+id/tab2"
+        app:showAsAction="always"
+        android:enabled="true"
+        android:title="@string/title_note"
+        android:icon="@drawable/ic_note"
+        >
+    </item>
+    <item
+        android:id="@+id/tab3"
+        app:showAsAction="always"
+        android:enabled="true"
+        android:title="@string/title_announcement"
+        android:icon="@drawable/ic_announcement"
+        >
+    </item>
+    <item
+        android:id="@+id/tab4"
+        app:showAsAction="always"
+        android:enabled="true"
+        android:title="@string/title_map"
+        android:icon="@drawable/ic_earth"
+        >
+    </item>
+
+
+
+
+</menu>

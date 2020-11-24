@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="password">
+        <item>태어난 년도를 입력하시오</item>
+        <item>졸업한 초등학교의 이름을 입력하시오</item>
+        <item>가장 좋아하는 친구의 이름을 입력하시오</item>
+    </string-array>
+    <string-array name="major">
+        <item>간호학과</item>
+        <item>건강기능식품학트랙</item>
+        <item>건축공학트랙</item>
+        <item>건축학과</item>
+        <item>게임소프트웨어학과</item>
+        <item>경영학트랙</item>
+        <item>골프산업학과</item>
+        <item>글로벌통상학과</item>
+        <item>기계ICT공학과</item>
+        <item>기계공학트랙</item>
+        <item>기독교학과</item>
+        <item>노인복지학트랙</item>
+        <item>동물보건복지학과</item>
+        <item>디스플레이공학트랙</item>
+        <item>디지털기술경영학과</item>
+        <item>로봇자동화공학과</item>
+        <item>문화콘텐츠기획트랙</item>
+        <item>물리치료학과</item>
+        <item>미디어커뮤니케이션학과</item>
+        <item>법경찰행정학과</item>
+        <item>빅데이터AI학과</item>
+        <item>사물인터넷트랙</item>
+        <item>사회복지상담학과</item>
+        <item>사회복지학트랙</item>
+        <item>사회체육학과</item>
+        <item>산업디자인학과 </item>
+        <item>산업심리학과</item>
+        <item>생명공학트랙</item>
+        <item>세무회계학트랙</item>
+        <item>소방방재학트랙</item>
+        <item>시각디자인학과</item>
+        <item>시스템제어공학과</item>
+        <item>식품영양학과</item>
+        <item>신소재공학과</item>
+        <item>실내디자인학과</item>
+        <item>실용음악트랙</item>
+        <item>안전공학과</item>
+        <item>안전보건학트랙</item>
+        <item>애니메이션학과</item>
+        <item>연극트랙</item>
+        <item>영상미디어트랙</item>
+        <item>영어영문학과</item>
+        <item>유아교육과</item>
+        <item>인공지능트랙</item>
+        <item>임상병리학과</item>
+        <item>자동차ICT공학과</item>
+        <item>자동차공학트랙</item>
+        <item>전기공학과</item>
+        <item>전자공학트랙</item>
+        <item>전자재료공학과</item>
+        <item>정보보호학트랙</item>
+        <item>정보통신공학트랙</item>
+        <item>제약공학트랙</item>
+        <item>중국지역학과</item>
+        <item>창의교양학부</item>
+        <item>청소년문화상담학과</item>
+        <item>토목공학트랙</item>
+        <item>피아노트랙</item>
+        <item>한국언어문화학과</item>
+        <item>항공서비스학과</item>
+        <item>해양IT공학트랙</item>
+        <item>혁신융합학부</item>
+        <item>화장품과학트랙</item>
+        <item>화학공학과</item>
+        <item>환경공학과</item>
+    </string-array>
+    <string-array name="map">
+        <item>아산</item>
+        <item>천안</item>
+        <item>당진</item>
+    </string-array>
+    <string-array name="year">
+        <item>2020</item>
+    </string-array>
+    <string-array name="term">
+        <item>2학기</item>
+    </string-array>
+    <string-array name="universityArea">
+        <item>전공과목</item>
+        <item>전공기초</item>
+        <item>전공선택</item>
+        <item>전공필수</item>
+        <item>교직과정</item>
+        <item>기본교양</item>
+        <item>기초교양</item>
+        <item>대학기초</item>
+        <item>이공계기초</item>
+        <item>인성교양</item>
+        <item>일반교양</item>
+        <item>자유선택</item>
+        <item>학문기초</item>
+    </string-array>
+    <string-array name="universityMajor">
+        <item>미래융합대학</item>
+        <item>함교양대학</item>
+        <item>예체능대학</item>
+        <item>AI융합대학</item>
+        <item>공과대학</item>
+        <item>생명보건대학</item>
+        <item>경영대학</item>
+        <item>인문사회대학</item>
+    </string-array>
+</resources>

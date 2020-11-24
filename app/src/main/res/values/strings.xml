@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HoH</string>
+    <string name="title_timetable">시간표</string>
+    <string name="title_note">할 일</string>
+    <string name="title_announcement">공지사항</string>
+    <string name="title_map">맵</string>
+</resources>
